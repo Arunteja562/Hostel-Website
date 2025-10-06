@@ -27,7 +27,7 @@ video/ (hostel tour video)
 
 ## How to run (locally)
 1. Open `index.html` in your browser.
-2. golive server 
+2. Go live server http://127.0.0.1:5500/
 
 
 ```
@@ -55,5 +55,6 @@ If you want, I can:
 - Fill in your actual contact info and deployment link if you provide them.
 - Add a `LICENSE` file (MIT) and a small `index.html` meta tag for mobile responsiveness.
 - Create a GitHub Pages-ready `CNAME` or Netlify configuration.
+
 
 
