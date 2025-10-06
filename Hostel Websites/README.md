@@ -27,12 +27,9 @@ video/ (hostel tour video)
 
 ## How to run (locally)
 1. Open `index.html` in your browser.
-2. Or serve the folder with a simple static server, for example using Python 3:
+2. golive server 
 
-```powershell
-# from the project root (Windows PowerShell)
-python -m http.server 8000
-# then open http://localhost:8000 in your browser
+
 ```
 
 ## Contact
@@ -58,4 +55,5 @@ If you want, I can:
 - Fill in your actual contact info and deployment link if you provide them.
 - Add a `LICENSE` file (MIT) and a small `index.html` meta tag for mobile responsiveness.
 - Create a GitHub Pages-ready `CNAME` or Netlify configuration.
+
 
