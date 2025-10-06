@@ -7,7 +7,7 @@ This is a small static website for a hostel. It includes pages for home, about, 
 - HTML5
 - CSS3
 - JavaScript (vanilla)
-- No build tools required (static files)
+
 
 ## Project Structure
 ```
@@ -58,3 +58,4 @@ If you want, I can:
 - Fill in your actual contact info and deployment link if you provide them.
 - Add a `LICENSE` file (MIT) and a small `index.html` meta tag for mobile responsiveness.
 - Create a GitHub Pages-ready `CNAME` or Netlify configuration.
+
